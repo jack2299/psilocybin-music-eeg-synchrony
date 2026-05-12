@@ -1,0 +1,15 @@
+# Local configuration (user-specific paths)
+config.m
+
+# Raw data files
+*.csv
+*.xlsx
+*.mat
+
+# Generated outputs
+*.png
+*.fig
+analysis_outputs/
+
+# MATLAB temporary files
+*.asv
