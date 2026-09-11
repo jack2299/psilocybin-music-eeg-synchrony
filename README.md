@@ -30,6 +30,9 @@ Must contain columns: `participant`, `session`, `song_PLV_summary_table`, `quest
 ### ISC_merged_dose.csv
 Must contain columns: `ISC_global`, `Dose`, `Song`, `P1`, `P2`
 
+##**note**
+The prisoner’s dilemma task was piloted but not included in the final analysis because of movement artefact and session-order effects
+
 ## License
 
 MIT
